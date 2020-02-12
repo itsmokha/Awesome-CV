@@ -33,8 +33,7 @@ This should result in the creation of ``{your-cv}.pdf``
 
 ## Credit
 
-[Original Repository](https://github.com/posquit0/Awesome-CV)
-Forked repo, to create my personal cv.
+[**Original Repository**](https://github.com/posquit0/Awesome-CV) - forked repo to create my personal cv and to add references to publications, which is not featured on master [yet](https://github.com/posquit0/Awesome-CV/pull/23).
 
 [**LaTeX**](http://www.latex-project.org) is a fantastic typesetting program that a lot of people use these days, especially the math and computer science people in academia.
 
