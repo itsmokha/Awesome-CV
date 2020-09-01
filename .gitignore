@@ -33,3 +33,6 @@ coverletter.run.xml
 ## Mac OS X metadata files:
 *.DS_Store
 
+examples/__latexindent_temp.pdf
+examples/__latexindent_temp.run.xml
+examples/__latexindent_temp.synctex.gz
