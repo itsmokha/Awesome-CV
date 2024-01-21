@@ -38,4 +38,4 @@ This should result in the creation of `{your-cv}.pdf`
 
 ## Credit
 
-[**Original Repository**](https://github.com/posquit0/Awesome-CV) - forked repo to create my personal cv and to add references to publications, which is not featured on master [yet](https://github.com/posquit0/Awesome-CV/pull/23).
+[**Original Repository**](https://github.com/longpdo/Awesome-CV) - forked repo to create my personal CV.
