@@ -18,7 +18,8 @@
 %-------------------------------------------------------------------------------
 % A4 paper size by default, use 'letterpaper' for US letter
 \documentclass[11pt, a4paper]{awesome-cv}
-
+\usepackage{graphicx}
+\usepackage{tikz}
 % Configure page margins with geometry
 \geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
 
@@ -84,6 +85,10 @@
 % Print the header with above personal informations
 % Give optional argument to change alignment(C: center, L: left, R: right)
 \makecvheader
+ {\begin{tikzpicture}[remember picture, overlay]
+		\node [anchor= north west, inner sep=1cm] at (current page.north west)
+			{\includegraphics[scale=0.2]{"images/ms-azure-data-fundamentals.png"}};
+\end{tikzpicture}}
 % Print the footer with 3 arguments(<left>, <center>, <right>)
 % Leave any of these blank if they are not needed
 \makecvfooter
